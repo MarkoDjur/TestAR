@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "Objekti_test.1",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [17.17588584, 44.75624661],
+              [17.17598586, 44.75630126],
+              [17.1760394, 44.75625218],
+              [17.17593864, 44.75619678],
+              [17.17588584, 44.75624661]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": { "id": 1, "Vrsta": "Stambeni", "Povrsina": null }
+    },
+    {
+      "type": "Feature",
+      "id": "Objekti_test.2",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [17.21040989, 44.77379864],
+              [17.21153275, 44.77388788],
+              [17.2115625, 44.77367371],
+              [17.21044112, 44.77358745],
+              [17.21040989, 44.77379864]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": { "id": 2, "Vrsta": "Poslovni", "Povrsina": null }
+    }
+  ],
+  "totalFeatures": 2,
+  "numberMatched": 2,
+  "numberReturned": 2,
+  "timeStamp": "2022-12-30T19:54:41.192Z",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:EPSG::4326" }
+  }
+}
